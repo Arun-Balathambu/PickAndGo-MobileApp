@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PickAndGo-Mobile",
+    "slug": "PickAndGo-Mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PickAndGo-Mobile"
+}
